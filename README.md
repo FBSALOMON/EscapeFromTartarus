@@ -11,3 +11,4 @@ Everything need to build a 3d RPG with Unity :
 * Construction of Terrains
 * Combat Systems ( Attacks / Animations / Special Abilities)
 * LOTS of time Debugging
+* Importance of GitHub ( When you lost your project -.- )
